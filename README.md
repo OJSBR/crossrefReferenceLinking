@@ -1,10 +1,10 @@
 # Crossref Reference Linking — temporary OJS 3.5 hot-fix build
 
 [![OJS](https://img.shields.io/badge/OJS-3.5-brightgreen)](https://pkp.sfu.ca/ojs/)
-[![Version](https://img.shields.io/badge/version-3.0.0.90-blue)](version.xml)
+[![Version](https://img.shields.io/badge/version-3.0.0.91-blue)](version.xml)
 [![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)](LICENSE)
 
-**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/crossrefReferenceLinking/releases/download/3.0.0.90/crossrefReferenceLinking-3.0.0.90.tar.gz) — or browse all [Releases](../../releases).
+**⬇️ Install package:** [OJS 3.5](https://github.com/OJSBR/crossrefReferenceLinking/releases/download/3.0.0.91/crossrefReferenceLinking-3.0.0.91.tar.gz) — or browse all [Releases](../../releases).
 
 > [!IMPORTANT]
 > **This is not an OJSBR plugin and it is not meant to live long.**
